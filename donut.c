@@ -151,7 +151,7 @@ int main(void) {
         A += 0.07f;
         B += 0.035f;
 
-        usleep(32000); // ~60 FPS
+        usleep(32000); // ~30 FPS
     }
 
     return 0;
